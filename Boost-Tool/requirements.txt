@@ -1,0 +1,4 @@
+colorama==0.4.6
+httpx==0.23.0
+requests==2.26.0
+tls_client==0.1.8
